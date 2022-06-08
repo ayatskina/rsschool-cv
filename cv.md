@@ -13,7 +13,7 @@
 
 ## About me
 
-Now I'm working as a TV News producer, but my goal is to start IT career as a frontend developer. I've already completed the Learn JavaScript Course on codacademy and my next step is to start studying in RS School on JavaScript course. 
+Now I'm working as a content editor at University 2035, but my goal is to start IT career as a frontend developer. I've already completed the Learn JavaScript Course on codacademy and my next step is to start studying in RS School on JavaScript course. 
 
 ## Skills
 
