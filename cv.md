@@ -1,4 +1,4 @@
-![photo](http://c.radikal.ru/c32/2112/80/bac875c99225.jpg)
+
 
 
 # Anna Yatskina
